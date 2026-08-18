@@ -136,6 +136,25 @@ body {
   font-style: italic;
 }
 
+/* Contenedor del aviso de horarios */
+.aviso-horario {
+  font-size: 0.78rem;
+  color: #fef08a; /* Tono amarillo suave para no competir con el texto principal */
+  margin-top: 6px;
+  line-height: 1.4;
+  display: block;
+}
+
+/* El mensaje de agradecimiento destacado con espacio */
+.aviso-gracias {
+  font-size: 0.75rem;
+  color: var(--brand-yellow);
+  font-weight: 600;
+  margin-top: 4px;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
 /* Barra de Navegación Fija */
 .nav-categories {
   display: flex;
