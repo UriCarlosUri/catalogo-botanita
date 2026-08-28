@@ -5,7 +5,7 @@ Aplicación web frontend ligera, responsiva y optimizada para móviles diseñada
 ---
 
 ## 🚀 Demo en Vivo
-🔗 **[Ver Catálogo en Producción](https://tu-usuario.github.io/catalogo-botanita/)**
+🔗 **[Ver Catálogo en Producción](https://uricarlosuri.github.io/catalogo-botanita/)**
 
 ---
 
